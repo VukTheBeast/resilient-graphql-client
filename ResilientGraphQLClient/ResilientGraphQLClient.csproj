@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     
     <!-- Package metadata -->
-    <PackageId>ResilientGraphQLClient</PackageId>
+    <PackageId>VukTheBeast.ResilientGraphQL.Client</PackageId>
     <Version>1.0.0</Version>
     <Authors>Vuk Manic</Authors>
     <Description>A resilient GraphQL client library with built-in retry policies, circuit breakers, and error handling capabilities.</Description>
