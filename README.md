@@ -144,7 +144,7 @@ catch (TimeoutException ex)
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide before opening issues or pull requests.
 
 ## License
 
